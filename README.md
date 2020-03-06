@@ -31,4 +31,4 @@ Where red and green meet, you get yellow (RGB(255, 255, 0)), where red and blue 
 
 It is using this information that will allow you to best guess the colour represented by the RGB code. It can get a little tricky sometimes, but with a little practice you'll get it!
 
-
+Very soon, I will be working on implementing a guess limit, and perhaps even a timed aspect of the game.
