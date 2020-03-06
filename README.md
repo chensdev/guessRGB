@@ -1,7 +1,7 @@
 # guessRGB
 This is a simple RGB colour guessing game written with JS functionality.
 
-I wrote this as a project on a course I'm doing ('Complete Web Development Bootcamp' instructed by Colt Steele on Udemy).
+I wrote this as a project on a course I'm doing ('Complete Web Development Bootcamp' instructed by Colt Steele on Udemy). I have added my own touches along the way (a third, 'hard' difficulty level and a number of styling tweaks).
 
 The general idea is to match the RGB code with one of the squares on the grid. There are three difficulties: easy (3 choices to pick from), medium (6 choices to pick from) and hard (9 choices to pick from).
 
